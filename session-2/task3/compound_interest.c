@@ -19,6 +19,8 @@ int main( void ) {
      * Implement the formula for compound interest.
      * Print out the final amount and the gain compared to the initial deposit.
      */
+
+     float final_amount = deposit*(rate+1)^term
     
 
     return 0;

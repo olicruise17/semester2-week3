@@ -8,7 +8,7 @@
 
 int main( void ) {
 
-    int *testIntPtr;
+    double *testIntPtr;
 
     printf("Int pointer size is %ld bytes\n",sizeof(testIntPtr));
 
